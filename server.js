@@ -20,6 +20,3 @@ mongoose.connect(process.env.DB_Connection, () => {
 
 // Listen port
 app.listen(3000);
-
-// joel  Shand12345
-// mongodb+srv://joel:Shand12345@deved.bwo4huq.mongodb.net/?devDBretryWrites=true&w=majority
